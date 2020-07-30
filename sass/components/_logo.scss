@@ -1,0 +1,17 @@
+.logo {
+  margin-right: 85px;
+
+  color: $third-text-color;
+  font-family: $font-logo;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+
+  &-web {
+    color: $accent-color;
+  }
+
+  &-studio {
+    color: $prime-text-color;
+  }
+}
